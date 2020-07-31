@@ -3,7 +3,7 @@ def my_hash
     "name" => "Kerri",
     "age" => 30
   }
-  puts your_hash
+end
 
 
 end
