@@ -1,7 +1,8 @@
 def my_hash
-  your_hash = {"name" => "Kerri"
-              "age" => 30
-            }
+  your_hash = {
+    :name => "Kerri"
+    :age => 30
+  }
 end
 
 
